@@ -1,8 +1,8 @@
 const params = {
-  appid: 'wxb98e44f5e7a956a0',
-  secret: 'a55ef17ddaa3c5bf0cabd344e6c7d17e',
-  touser: 'ohqRj6EBIUp4gzIQ3mUbULM9uQnQ',
-  template_id: 'LvDuTb8njKAv-nG_2L2GT-bkZPCJi_xmmk1Zn5zRF1U',
+  appid: 'wx8b7aea9f97c4afa9',
+  secret: 'bfaf7d733e44fb5025afb3f9dbd013a7',
+  touser: 'oBlD86sjmqSl0WNzWPTY2liAk5mk',
+  template_id: 'xOQd_rUoK3El0WRLgM4WWDsZm1fXPmmOVf74l1-CnL0',
 }
 
 const listConfig = {
